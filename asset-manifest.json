@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sled.brand/static/css/main.746a4695.css",
-    "main.js": "/sled.brand/static/js/main.97e34185.js",
+    "main.css": "/sled.brand/static/css/main.7db9bf65.css",
+    "main.js": "/sled.brand/static/js/main.62c5ecf0.js",
     "static/js/592.3654299c.chunk.js": "/sled.brand/static/js/592.3654299c.chunk.js",
-    "static/media/logo.svg": "/sled.brand/static/media/logo.26bdedefa5d523dfbb833d87198b5b9c.svg",
     "static/media/frame.png": "/sled.brand/static/media/frame.7c90898032ca1006a8bd.png",
+    "static/media/logo.svg": "/sled.brand/static/media/logo.df68f92e687f27725fbf5a829aa7ddc2.svg",
     "static/media/back.jpg": "/sled.brand/static/media/back.68225ce1e363ff4158c6.jpg",
     "index.html": "/sled.brand/index.html",
-    "main.746a4695.css.map": "/sled.brand/static/css/main.746a4695.css.map",
-    "main.97e34185.js.map": "/sled.brand/static/js/main.97e34185.js.map",
+    "main.7db9bf65.css.map": "/sled.brand/static/css/main.7db9bf65.css.map",
+    "main.62c5ecf0.js.map": "/sled.brand/static/js/main.62c5ecf0.js.map",
     "592.3654299c.chunk.js.map": "/sled.brand/static/js/592.3654299c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.746a4695.css",
-    "static/js/main.97e34185.js"
+    "static/css/main.7db9bf65.css",
+    "static/js/main.62c5ecf0.js"
   ]
 }
